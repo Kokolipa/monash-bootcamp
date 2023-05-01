@@ -9,3 +9,5 @@ This showcase the use case of feature branching in GitHub.
 #### This is a new update 
 P: Another updates as paragraph
 hw
+
+## Changes
